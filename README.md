@@ -56,7 +56,4 @@ underline-for-california-rolls>python watch_roles.py
 2. [UNDER_LINE](https://toarumajutsunoindex.fandom.com/wiki/UNDER_LINE)  (<ruby>滞空回線<rt>アンダーライン</rt></ruby>)  - Toaru Majutsu no Index Wiki
 3. [Kihara Amata](https://toarumajutsunoindex.fandom.com/wiki/Kihara_Amata) (<ruby>木原数多<rt>きはらあまた</rt></ruby>) - Toaru Majutsu no Index Wiki
 
-### Do you know?
-
-When [**Aqua of the Back**](https://toarumajutsunoindex.fandom.com/wiki/Acqua_of_the_Back)(後方のアックア) invaded Academy City, the UNDER\_LINE network malfunctioned temporarily.
 
