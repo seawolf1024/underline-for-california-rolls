@@ -7,7 +7,7 @@
 Currently in California, **Kihara Amata** (<ruby>木原数多<rt>きはらあまた</rt></ruby>) seeks to know the moment new California rolls comes out, so he redeveloped the **UNDER\_LINE** into a system that is dedicated to detecting the release of the rolls.
 
 <p align="lef">
-  <img src="images/kihara_amata.jpg" width="60%">
+  <img src="images/kihara_amata.jpg" width="40%">
   <br>
   <sub>Kihara Amata observing California Roll emergence.</sub>
 </p>
