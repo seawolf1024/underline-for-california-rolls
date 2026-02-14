@@ -16,7 +16,7 @@ Currently in California, **Kihara Amata** (<ruby>木原数多<rt>きはらあま
 
 In the real world, there are websites that update California roll listings in real time.
 
-UNDER_LINE is a **Python-based tracking script** designed to run in the background for California rolls trackers by Kihara Amata. The script queries the roll source every 30 seconds to 1 minute. **Whenever a new roll appears**, it triggers the Windows beeper to produce a loud alert, notifying Kihara immediately so he can investigate.
+UNDER_LINE is a **Python-based tracking script** designed to run in the background for California rolls trackers. The script queries the roll source every 30 seconds to 1 minute. **Whenever a new roll appears**, it triggers the Windows beeper to produce a loud alert, notifying users immediately for investigation.
 
 - Monitors California roll listings **in near real time (1 min)**
 - Runs with **a persistent browser profile**
