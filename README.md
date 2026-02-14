@@ -40,7 +40,15 @@ playwright install chromium
 
 ### Usage
 
-Specify a source of California rolls before you watch them (in this sample the source is [DoorDash](https://www.doordash.com/search/store/california%20rolls?event_type=search)), then run:
+Specify a source of California rolls before you watch them (in this sample the source is [DoorDash](https://www.doordash.com/search/store/california%20rolls?event_type=search)):
+
+```
+SEARCH_URL = (
+    "https://www.doordash.com/search/store/california%20rolls?event_type=search" # DoorDash for data resource
+)
+```
+
+Then run:
 
 ```
 python watch_rolls.py
